@@ -14,15 +14,15 @@
 } */
 /* selection by class */
 
-.left-division {verical-align: top;
+.left-division {vertical-align: top;
     width: 45%;
     height: 500px;
     display: inline-block;
     background-color: skyblue;
 }
 .right-division{vertical-align: top;
-    height: 200px;
-    width: 100px;
+    height: 250px;
+    width: 30%;
     display: inline-block;
     background: tomato;
 
